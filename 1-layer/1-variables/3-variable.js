@@ -1,0 +1,6 @@
+/*
+Scope
+> Blocks
+> Global
+> Function
+*/
