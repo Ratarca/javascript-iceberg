@@ -8,6 +8,7 @@ This repository contains my study notes, recipes and learning about js.
 
 <details>
   <summary> Layer 1 </summary>
+
   | Layer  | Content | Status | Link
   | ------------- | ------------- |------------- |------------- |
   | 1  | Variable: Declaration  | :x: | :link:
@@ -39,6 +40,7 @@ This repository contains my study notes, recipes and learning about js.
   | 4 | Classes: Modules  |:x: | :link:
   | 4 | Extra: Iterator and Generator | :x:| :link:
   | 4 | Extra: Memory Manager (Lifecycle and Garbage Collector) | :x:| :link:
+
 </details>
 
 <details>
@@ -53,6 +55,7 @@ This repository contains my study notes, recipes and learning about js.
     | 2  | Operators  |:x: | :link:
     | 2  | Flow Control: If  |:x: | :link:
     | 2  | Flow Control: Exceptions   |:x: | :link:
+    
 </details>
 
 
