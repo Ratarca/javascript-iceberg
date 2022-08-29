@@ -85,3 +85,12 @@ This repository contains my study notes, recipes and learning about js.
 | NodeJS-Iceberg | :x: | :link:
 | Typescript-Iceberg | :x: |  :link:
 | 100-js-project | :x: |  :link:
+
+# Books Tip
+
+| Title | Author | 
+| ------------- |------------- |
+| Modern Javascript for the impatient | Cay Horstmann| 
+| Javascript cookbook | Matthew MacDonald |  
+| Javascript cookbook | Matthew MacDonald | 
+| Javascript Definitive Guide| David Flanagan | 
