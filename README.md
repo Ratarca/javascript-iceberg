@@ -2,11 +2,12 @@
 This repository contains my study notes, recipes and learning about js.
 
 
-# Summary 
+# Iceberg Layers 
 
 
 <details>
-  <summary> :toolbox: Skills </summary>
+
+  <summary> Layer 1 </summary>
 | Layer  | Content | Status | Link
 | ------------- | ------------- |------------- |------------- |
 | 1  | Variable: Declaration  | :x: | :link:
@@ -39,6 +40,21 @@ This repository contains my study notes, recipes and learning about js.
 | 4 | Extra: Iterator and Generator | :x:| :link:
 | 4 | Extra: Memory Manager (Lifecycle and Garbage Collector) | :x:| :link:
 
+  </details>
+
+  <summary> Layer 2 </summary>
+| Layer  | Content | Status | Link
+| ------------- | ------------- |------------- |------------- |
+| 2  | Loop: For...in / of  |:x: | :link:
+| 2  | Loop: while  | :x:| :link:
+| 2  | Loop: break + Continue  |:x: | :link:
+| 2  | Expressions  | :x:| :link:
+| 2  | Operators  |:x: | :link:
+| 2  | Flow Control: If  |:x: | :link:
+| 2  | Flow Control: Exceptions   |:x: | :link:
+
+
+  </details>
 <details>
 
 | Side Projects | Status | Link
