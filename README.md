@@ -4,6 +4,9 @@ This repository contains my study notes, recipes and learning about js.
 
 # Summary 
 
+
+<details>
+  <summary> :toolbox: Skills </summary>
 | Layer  | Content | Status | Link
 | ------------- | ------------- |------------- |------------- |
 | 1  | Variable: Declaration  | :x: | :link:
@@ -36,6 +39,7 @@ This repository contains my study notes, recipes and learning about js.
 | 4 | Extra: Iterator and Generator | :x:| :link:
 | 4 | Extra: Memory Manager (Lifecycle and Garbage Collector) | :x:| :link:
 
+<details>
 
 | Side Projects | Status | Link
 | ------------- |------------- |------------- |
