@@ -67,6 +67,16 @@ This repository contains my study notes, recipes and learning about js.
     
 </details>
 
+<details>
+    <summary> :snowflake: Exercises :snowflake: </summary>
+
+  | Type  | Content | Status | Link
+  | ------------- | ------------- |------------- |------------- |
+  | List-1 | Variables  |:x: | :link:
+
+    
+</details>
+
 
 # Side Projects
 
@@ -74,3 +84,4 @@ This repository contains my study notes, recipes and learning about js.
 | ------------- |------------- |------------- |
 | NodeJS-Iceberg | :x: | :link:
 | Typescript-Iceberg | :x: |  :link:
+| 100-js-project | :x: |  :link:
