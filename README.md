@@ -6,7 +6,7 @@ This repository contains my study notes, recipes and learning about js.
 
 
 <details>
-  <summary> Layer 1 :snowflake: </summary>
+  <summary>:snowflake: 1 :snowflake: </summary>
 
   | Layer  | Content | Status | Link
   | ------------- | ------------- |------------- |------------- |
@@ -20,30 +20,12 @@ This repository contains my study notes, recipes and learning about js.
   | 1  | Data Struct: Index (Array/Type Array) |:x: | :link:
   | 1  | Data Struct: Keyed (Map/Weak/Set) |:x: | :link:
   | 1  | Data Struct: Json  | :x:| :link:
-  | 2  | Loop: For...in / of  |:x: | :link:
-  | 2  | Loop: while  | :x:| :link:
-  | 2  | Loop: break + Continue  |:x: | :link:
-  | 2  | Expressions  | :x:| :link:
-  | 2  | Operators  |:x: | :link:
-  | 2  | Flow Control: If  |:x: | :link:
-  | 2  | Flow Control: Exceptions   |:x: | :link:
-  | 3  | Functions: Declaration   |:x: | :link:
-  | 3  | Functions: Arguments   |:x: | :link:
-  | 3  | Functions: Scope, Recursion, Closure   | :x:| :link:
-  | 3  | Async: Timeout and Interval   | :x:| :link:
-  | 3  | Async: Callback   | :x:| :link:
-  | 3  | Async: Promise   | :x:| :link:
-  | 3  | Async: Async/Await   |:x: | :link:
-  | 3  | Test: Jest  | :x:| :link:
-  | 4 | Classes: OOP  |:x: | :link:
-  | 4 | Classes: Modules  |:x: | :link:
-  | 4 | Extra: Iterator and Generator | :x:| :link:
-  | 4 | Extra: Memory Manager (Lifecycle and Garbage Collector) | :x:| :link:
+
 
 </details>
 
 <details>
-    <summary> Layer 2 :snowflake: </summary>
+    <summary> :snowflake: 2 :snowflake:</summary>
 
   | Layer  | Content | Status | Link
   | ------------- | ------------- |------------- |------------- |
@@ -58,7 +40,7 @@ This repository contains my study notes, recipes and learning about js.
 </details>
 
 <details>
-    <summary> Layer 3 :snowflake: </summary>
+    <summary> :snowflake: 3 :snowflake: </summary>
 
   | Layer  | Content | Status | Link
   | ------------- | ------------- |------------- |------------- |
@@ -74,7 +56,7 @@ This repository contains my study notes, recipes and learning about js.
 </details>
 
 <details>
-    <summary> Layer 4 :snowflake: </summary>
+    <summary> :snowflake: 4 :snowflake: </summary>
 
   | Layer  | Content | Status | Link
   | ------------- | ------------- |------------- |------------- |
