@@ -91,6 +91,6 @@ This repository contains my study notes, recipes and learning about js.
 | Title | Author | 
 | ------------- |------------- |
 | Modern Javascript for the impatient | Cay Horstmann| 
+| Joy JavaScript | Luis Atencio | 
 | Javascript cookbook | Matthew MacDonald |  
-| Javascript cookbook | Matthew MacDonald | 
 | Javascript Definitive Guide| David Flanagan | 
