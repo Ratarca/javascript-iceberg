@@ -1,55 +1,43 @@
-Layer: 1
-variables 1: Declarations {let, const}
-variables 2: Hoisting
-variables 3: Scope {Block, Global, Function}
+| Layer  | Content | Status | Link
+| ------------- | ------------- |------------- |------------- |
+| 1  | Variable: Declaration  | :x: | :link:
+| 1  | Variable: Hoisting  |:x:  | :link:
+| 1  | Variable: Scope  | :x:| :link:
+| 1  | Datatype: Primitive  |:x: | :link:
+| 1  | Datatype: Objects  |:x: | :link:
+| 1  | Casting: Conversion vs Coercion  | :x:| :link:
+| 1  | Casting: Implicit vs Implicit Cast  | :x:| :link:
+| 1  | Data Struct: Index (Array/Type Array) |:x: | :link:
+| 1  | Data Struct: Keyed (Map/Weak/Set) |:x: | :link:
+| 1  | Data Struct: Json  | :x:| :link:
+| 2  | Loop: For...in / of  |:x: | :link:
+| 2  | Loop: while  | :x:| :link:
+| 2  | Loop: break + Continue  |:x: | :link:
+| 2  | Expressions  | :x:| :link:
+| 2  | Operators  |:x: | :link:
+| 2  | Flow Control: If  |:x: | :link:
+| 2  | Flow Control: Exceptions   |:x: | :link:
+| 3  | Functions: Declaration   |:x: | :link:
+| 3  | Functions: Arguments   |:x: | :link:
+| 3  | Functions: Scope, Recursion, Closure   | :x:| :link:
+| 3  | Async: Timeout and Interval   | :x:| :link:
+| 3  | Async: Callback   | :x:| :link:
+| 3  | Async: Promise   | :x:| :link:
+| 3  | Async: Async/Await   |:x: | :link:
+| 3  | Test: Jest  | :x:| :link:
+| 4 | Classes: OOP  |:x: | :link:
+| 4 | Classes: Modules  |:x: | :link:
+| 4 | Extra: Iterator and Generator | :x:| :link:
+| 4 | Extra: Memory Manager (Lifecycle and Garbage Collector) | :x:| :link:
+
+
+| Side Projects | Status | Link
+| ------------- |------------- |------------- |
+| NodeJS-Iceberg | :x: | :link:
+| Typescript-Iceberg | :x: |  :link:
+
+
 
 Datatype 1: Primitive {String, Number, Undefined, Null} => Symbol
 Datatype 2: Objects, Built-in, Prototype
-
-Typecasting 1: Conversion vs Coercion
-Typecasting 2: Explicit vs Implicit Cast
-
-Data Struct 1: Index {Array / Typed Array}
-Data Struct 2: Keyed {Map/ Weak Map/ Set}
-Data Struct 3: Json
-
-==============
-Layer: 2
-Loop 1: For...in / of
-Loop 2: While
-Loop 3: Break + Continue
-
-Expression and Operators 1: {Logical; Comparison; Conditional}
-Expression and Operators 2: {Bitwise; Unary}
-
-Control Flow 1: If & Switch
 Control Flow 2: Exceptions {Throw; try/catch/finally; Erro Object}
-
-==============
-Layer: 3
-
-Functions 1: {Declarations; Arrow}
-Functions 2: {Arguments}
-Functions 3: {Scope, Recursion, Closure}
-
-Async 1: {Timeout; Interval}
-Async 2: {Callback and Callback hell}
-Async 3: {Promise and Async/Await}
-
-Tests : {Jest}
-
-==============
-Layer: 4
-
-Classes : {Iterator/Generator}
-Modules
-Memory Manager :{ Lifecycle; garbage collector}
-
-================
-Layer: 5
-NodeJS-Iceberg
-
-================
-Layer: 6
-Typescript-iceberg
-
