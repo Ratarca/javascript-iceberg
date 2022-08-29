@@ -46,15 +46,15 @@ This repository contains my study notes, recipes and learning about js.
 <details>
     <summary> Layer 2 </summary>
 
-    | Layer  | Content | Status | Link
-    | ------------- | ------------- |------------- |------------- |
-    | 2  | Loop: For...in / of  |:x: | :link:
-    | 2  | Loop: while  | :x:| :link:
-    | 2  | Loop: break + Continue  |:x: | :link:
-    | 2  | Expressions  | :x:| :link:
-    | 2  | Operators  |:x: | :link:
-    | 2  | Flow Control: If  |:x: | :link:
-    | 2  | Flow Control: Exceptions   |:x: | :link:
+  | Layer  | Content | Status | Link
+  | ------------- | ------------- |------------- |------------- |
+  | 2  | Loop: For...in / of  |:x: | :link:
+  | 2  | Loop: while  | :x:| :link:
+  | 2  | Loop: break + Continue  |:x: | :link:
+  | 2  | Expressions  | :x:| :link:
+  | 2  | Operators  |:x: | :link:
+  | 2  | Flow Control: If  |:x: | :link:
+  | 2  | Flow Control: Exceptions   |:x: | :link:
     
 </details>
 
