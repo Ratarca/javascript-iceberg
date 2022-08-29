@@ -2,12 +2,11 @@
 This repository contains my study notes, recipes and learning about js.
 
 
-# Iceberg Layers 
-
+# Iceberg Layers :large_blue_diamond:
 
 
 <details>
-  <summary> Layer 1 </summary>
+  <summary> Layer 1 :snowflake: </summary>
 
   | Layer  | Content | Status | Link
   | ------------- | ------------- |------------- |------------- |
@@ -44,7 +43,7 @@ This repository contains my study notes, recipes and learning about js.
 </details>
 
 <details>
-    <summary> Layer 2 </summary>
+    <summary> Layer 2 :snowflake: </summary>
 
   | Layer  | Content | Status | Link
   | ------------- | ------------- |------------- |------------- |
@@ -58,7 +57,36 @@ This repository contains my study notes, recipes and learning about js.
     
 </details>
 
+<details>
+    <summary> Layer 3 :snowflake: </summary>
 
+  | Layer  | Content | Status | Link
+  | ------------- | ------------- |------------- |------------- |
+  | 3  | Functions: Declaration   |:x: | :link:
+  | 3  | Functions: Arguments   |:x: | :link:
+  | 3  | Functions: Scope, Recursion, Closure   | :x:| :link:
+  | 3  | Async: Timeout and Interval   | :x:| :link:
+  | 3  | Async: Callback   | :x:| :link:
+  | 3  | Async: Promise   | :x:| :link:
+  | 3  | Async: Async/Await   |:x: | :link:
+  | 3  | Test: Jest  | :x:| :link:
+    
+</details>
+
+<details>
+    <summary> Layer 4 :snowflake: </summary>
+
+  | Layer  | Content | Status | Link
+  | ------------- | ------------- |------------- |------------- |
+  | 4 | Classes: OOP  |:x: | :link:
+  | 4 | Classes: Modules  |:x: | :link:
+  | 4 | Extra: Iterator and Generator | :x:| :link:
+  | 4 | Extra: Memory Manager (Lifecycle and Garbage Collector) | :x:| :link:
+    
+</details>
+
+
+# Side Projects
 
 | Side Projects | Status | Link
 | ------------- |------------- |------------- |
