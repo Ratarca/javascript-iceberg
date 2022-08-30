@@ -1,7 +1,13 @@
 /*
+Array Basic
 Objects are key/value
 */
 
+// Array
+let some_array = [1,2,3,4,'another',[5,6,7]]
+console.log(some_array,'||',some_array[1],'\n')
+
+// Object
 let study_degree = 'Master Degree'
 
 const some_object = {'name':'ratarca',
