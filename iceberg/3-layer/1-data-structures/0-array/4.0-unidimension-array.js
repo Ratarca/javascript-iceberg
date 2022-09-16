@@ -10,7 +10,7 @@ Unidimension array
 
 
 // Build array
-let inflation = [1,2,3,4,5,'six']
+let inflation = [1,2,3,4,'','sprinbank 12 anos']
 
 console.log(typeof inflation, '||' ,inflation,'\n')
 inflation[0]= "fuji"
@@ -29,3 +29,9 @@ inflation.pop() // remove and
 
 
 
+// 
+let top_whisky = ['knappogue castle','aberlour', 'grenfiddich','macallan','highland park','springbank']
+let pop_whisk = ['ballanttines', 'old-par']
+let bourboun_whisk = ['buffalo trace','wild turkey 101']
+let single_whisk = ['grenfiddich','glenmorangie','aberlour','macallan','cragganmore']
+let scoth_turfado = ['laphroaig']
