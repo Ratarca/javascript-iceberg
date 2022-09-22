@@ -17,7 +17,7 @@ This repository contains my study notes, recipes and learning about js.
   | 1  | Datatype: null and undefined  |:heavy_check_mark: | [:link:](https://github.com/Ratarca/javascript-iceberg/tree/main/iceberg/1-layer/2-data_types)
   | 1  | Casting: Conversion vs Coercion  | :heavy_check_mark:| [:link:](https://github.com/Ratarca/javascript-iceberg/tree/main/iceberg/1-layer/3-cast)
   | 1  | Casting: Implicit vs Implicit Cast  | :heavy_check_mark:| [:link:](https://github.com/Ratarca/javascript-iceberg/tree/main/iceberg/1-layer/3-cast)
-  | 1  | Operators: Math | :heavy_check_mark:| [:link:](https://github.com/Ratarca/javascript-iceberg/tree/main/iceberg/1-layer/4-operators)
+  | 1  | Operators: Math Expressions & Comparsion | :heavy_check_mark:| [:link:](https://github.com/Ratarca/javascript-iceberg/tree/main/iceberg/1-layer/4-operators)
   | 1  | Operators: Logical | :heavy_check_mark:| [:link:](https://github.com/Ratarca/javascript-iceberg/tree/main/iceberg/1-layer/4-operators)
   | 1  | files: csv, json | :heavy_check_mark:| [:link:](https://github.com/Ratarca/javascript-iceberg/tree/main/iceberg/1-layer/5-files)
   | 1  | small-project: Send Email | :x:| [:link:]()
