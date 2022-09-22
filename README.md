@@ -10,17 +10,17 @@ This repository contains my study notes, recipes and learning about js.
 
   | Layer  | Content | Status | Link
   | ------------- | ------------- |------------- |------------- |
-  | 1  | Variable: Declaration  | :x: | :link:
-  | 1  | Variable: Scope  | :x:| :link:
-  | 1  | Datatype: Primitives  |:x: | :link:
-  | 1  | Datatype: Objects  |:x: | :link:
-  | 1  | Datatype: null and undefined  |:x: | :link:
-  | 1  | Casting: Conversion vs Coercion  | :x:| :link:
-  | 1  | Casting: Implicit vs Implicit Cast  | :x:| :link:
-  | 1  | Operators: Math | :x:| :link:
-  | 1  | Operators: Logical | :x:| :link:
-  | 1  | files: csv, json | :x:| :link:
-  | 1  | small-project: Send Email | :x:| :link:
+  | 1  | Variable: Declaration  | :heavy_check_mark: | [:link:](https://github.com/Ratarca/javascript-iceberg/tree/main/iceberg/1-layer/1-variables)
+  | 1  | Variable: Scope  | :heavy_check_mark:| [:link:](https://github.com/Ratarca/javascript-iceberg/tree/main/iceberg/1-layer/1-variables)
+  | 1  | Datatype: Primitives  |:heavy_check_mark: | [:link:](https://github.com/Ratarca/javascript-iceberg/tree/main/iceberg/1-layer/2-data_types)
+  | 1  | Datatype: Objects  |:heavy_check_mark: | [:link:](https://github.com/Ratarca/javascript-iceberg/tree/main/iceberg/1-layer/2-data_types)
+  | 1  | Datatype: null and undefined  |:heavy_check_mark: | [:link:](https://github.com/Ratarca/javascript-iceberg/tree/main/iceberg/1-layer/2-data_types)
+  | 1  | Casting: Conversion vs Coercion  | :heavy_check_mark:| [:link:](https://github.com/Ratarca/javascript-iceberg/tree/main/iceberg/1-layer/3-cast)
+  | 1  | Casting: Implicit vs Implicit Cast  | :heavy_check_mark:| [:link:](https://github.com/Ratarca/javascript-iceberg/tree/main/iceberg/1-layer/3-cast)
+  | 1  | Operators: Math | :heavy_check_mark:| [:link:](https://github.com/Ratarca/javascript-iceberg/tree/main/iceberg/1-layer/4-operators)
+  | 1  | Operators: Logical | :heavy_check_mark:| [:link:](https://github.com/Ratarca/javascript-iceberg/tree/main/iceberg/1-layer/4-operators)
+  | 1  | files: csv, json | :heavy_check_mark:| [:link:](https://github.com/Ratarca/javascript-iceberg/tree/main/iceberg/1-layer/5-files)
+  | 1  | small-project: Send Email | :x:| [:link:]()
 
 </details>
 
@@ -96,7 +96,7 @@ This repository contains my study notes, recipes and learning about js.
 
 | Side Projects | Status | Link
 | ------------- |------------- |------------- |
-| JS-PROJECTS | :x: |  :link:
+| JS-PROJECTS | :x: |  [:link:]()
 | NodeJS-Iceberg | :x: | :link:
 | Typescript-Iceberg | :x: |  :link:
 
