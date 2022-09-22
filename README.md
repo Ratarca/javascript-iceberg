@@ -19,7 +19,7 @@ This repository contains my study notes, recipes and learning about js.
   | 1  | Casting: Implicit vs Implicit Cast  | :x:| :link:
   | 1  | Operators: Math | :x:| :link:
   | 1  | Operators: Logical | :x:| :link:
-  | 1  | files: csv | :x:| :link:
+  | 1  | files: csv, json | :x:| :link:
   | 1  | small-project: Send Email | :x:| :link:
 
 </details>
@@ -96,9 +96,10 @@ This repository contains my study notes, recipes and learning about js.
 
 | Side Projects | Status | Link
 | ------------- |------------- |------------- |
+| JS-PROJECTS | :x: |  :link:
 | NodeJS-Iceberg | :x: | :link:
 | Typescript-Iceberg | :x: |  :link:
-| js-projects | :x: |  :link:
+
 
 # Books Tip
 
